@@ -1,0 +1,9 @@
+  git log --oneline --number: 
+     git log --oneline --graph:
+     git log branchname
+     git log --oneline branch1 ^branch2,
+$ cd D:\myGitHub
+
+Œ‚∑…@DESKTOP-M2ANDJT MINGW64 /d/myGitHub (master)
+$ git init
+
